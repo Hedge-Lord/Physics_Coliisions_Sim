@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\georg\Desktop\Shit\Projects\VerletEngine\VerletEngine\solver.h(48,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\georg\Desktop\Shit\Projects\VerletEngine\VerletEngine\solver.h(49,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\georg\Desktop\Shit\Projects\VerletEngine\VerletEngine\solver.h(106,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\georg\Desktop\Shit\Projects\VerletEngine\VerletEngine\solver.h(107,48): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\georg\Desktop\Shit\Projects\VerletEngine\VerletEngine\solver.h(130,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  VerletEngine.vcxproj -> C:\Users\georg\Desktop\Shit\Projects\VerletEngine\Debug\VerletEngine.exe
